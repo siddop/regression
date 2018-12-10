@@ -1,0 +1,19 @@
+
+------*** all the codes in the templates require python3 and libraries like numpy, sikitlearn and pandas to run*** -------
+
+the template folder contain 7 sub-folder named 
+
+data preprocessing (in this folder one can find templates for data preprocessing like how to deal with categorical data,
+missing data, spliting the data, and feature scaling)
+
+linear regression (in this folder one can find template for doing simple linear regression)
+
+multiple linear regression (in this folder one can find sample code for multiple linear regression)
+
+polynomial regression (in this folder one can find example of polynomial regression)
+
+SVR (support vector regression in this folder one can find how to use SVR )
+
+Decision tree (in this folder one can find the example using decision tree regression model)
+
+random forest (in this folder one can find random forest example)
